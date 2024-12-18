@@ -67,13 +67,6 @@ Welcome to my GitHub profile! I'm **Nikhil Shrestha**, a passionate software eng
 
 ---
 
-### 📊 GitHub Stats
-
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilsth4&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsth4&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect
 - **Email:** [nikhilshrestha0@gmail.com](mailto:nikhilshrestha0@gmail.com)
 - **LinkedIn:** [linkedin.com/in/nikhilsth4](https://linkedin.com/in/nikhilsth4)
