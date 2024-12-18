@@ -1,84 +1,83 @@
-# Hello World! 👋
+# Hi there! 👋
 
-I'm **Nikhil Shrestha**, a passionate Software Engineer with a strong foundation in Full Stack Development, Cloud Technologies, Artificial Intelligence and Blockchain. I enjoy building scalable and user-friendly applications, solving complex problems, and collaborating with teams to deliver impactful solutions.
+Welcome to my GitHub profile! I'm **Nikhil Shrestha**, a passionate software engineer and a recent graduate with a Master’s degree in Computer Science. I’m enthusiastic about building robust, scalable, and user-friendly applications that solve real-world problems.
 
 ---
 
 ### 💻 About Me
+- 🎓 **Education:** Master of Science in Computer Science, The University of Texas Permian Basin, May 2024.
+- 🌟 **Skills:** Full Stack Development | Java | Spring Boot | React.js | Python | SQL | RESTful APIs | Cloud (AWS/GCP/Azure) | Docker & Kubernetes | Git
+- 📍 **Location:** SanFrancisco, CA, USA
+- 💼 **Open to:** Software Engineering | Frontend Development | Backend Development | Full Stack Development
+- 🌱 **Currently Learning:** LLMS, Generative AI, Three.js
 
-- 🎓 **Education:**
+---
 
-  - Master of Science (MS) in Computer Science, The University of Texas Permian Basin (May 2024)
-  - Bachelor of Science in Computer Science and Information Technology, Tribhuvan University (December 2020)
+### 🛠️ Technical Skills
 
-- 🌟 **Skills:**
+#### **Programming Languages**
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 
-  #### Frontend
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+#### **Frameworks & Libraries**
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
 
-  #### Backend
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+#### **Cloud & DevOps**
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
 
-  #### Databases
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+#### **Databases**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 
-  #### DevOps & Tools
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+---
 
-- 🌱 **Currently Learning:** Generative AI, LLMS, Three.js
+### 💼 Professional Experience
 
-- 📫 **Contact:** [Email](mailto:nikhilshrestha0@gmail.com) | [LinkedIn](https://linkedin.com/in/nikhilsth4) | [GitHub](https://github.com/nikhilsth4)
+#### Software Engineer | Fourth Valley Concierge Corporation
+*Tokyo, Japan (May 2022 – Aug 2022)*
+- Built an Admin Management System using **Next.js**, **Tailwind CSS**, and **AWS Lambda**, optimizing admin workflows.
+- Designed serverless backends with **DynamoDB** and improved code quality with **TypeScript**.
+
+#### Software Engineer | Nepalland IT Solutions
+*Kathmandu, Nepal (May 2021 – Apr 2022)*
+- Developed a Hospital Management System integrating **React.js** and **Spring Boot**, enhancing user satisfaction.
+- Utilized **PostgreSQL** for database management and improved UI with **Figma**.
+
+#### Junior Software Engineer | Radius Infosys Pvt. Ltd.
+*Kathmandu, Nepal (Apr 2020 – May 2021)*
+- Designed a Restaurant Management System with **React** and **Node.js**, improving efficiency by 20%.
+- Enhanced user experience with real-time tracking using **Socket.IO**.
 
 ---
 
 ### 🌟 Projects
 
 #### **Pneumonia Detection**
+- **Description:** Built a machine learning model for detecting pneumonia from x-ray images, using **AWS Sagemaker** for training and **React.js** for real-time diagnosis.
+- **Technologies Used:** Python, AWS Lambda, React.js
+- **GitHub Link:** [Repository Link](#)
 
-- **Description:** Built a machine learning model to detect pneumonia from x-ray images.
-- **Technologies:** AWS Sagemaker, AWS Lambda, React.js
-- **Impact:** Improved detection speed and accuracy with real-time image upload and diagnosis.
+#### **Ecommerce Platform**
+- **Description:** Developed an e-commerce application with Firebase authentication and Stripe payment integration.
+- **Technologies Used:** React.js, Redux, Firebase, Stripe
+- **GitHub Link:** [Repository Link](#)
 
-#### **E-commerce Platform**
-
-- **Description:** Developed a fully functional e-commerce web application.
-- **Technologies:** React.js, Redux, Firebase, Stripe
-- **Features:** User authentication, dynamic product listings, and seamless payment integration.
-
-#### **Campaign Platform**
-
-- **Description:** Created a decentralized donation platform for startups.
-- **Technologies:** Next.js, Solidity, Blockchain
-- **Impact:** Enabled transparent fundraising with real-time security and transaction transparency.
+#### **Blockchain Campaign**
+- **Description:** Built a decentralized donation platform using blockchain to ensure transparency in fundraising.
+- **Technologies Used:** Next.js, Solidity, web3.js
+- **GitHub Link:** [Repository Link](#)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilsth4&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsth4&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect
-
-- **Email:** [your.email@example.com](mailto:nikhilshrestha0@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/nikhilsth4)
-- **Portfolio:** [yourwebsite.com](https://nikhiljs.me)
+- **Email:** [nikhilshrestha@gmail.com](mailto:nikhilshrestha0@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nikhilshrestha](https://linkedin.com/in/nikhilsth4)
+- **Portfolio:** [nikhilportfolio.com](https://nikhiljs.me)
 
 ---
 
