@@ -75,9 +75,9 @@ Welcome to my GitHub profile! I'm **Nikhil Shrestha**, a passionate software eng
 ---
 
 ### 📫 Let's Connect
-- **Email:** [nikhilshrestha@gmail.com](mailto:nikhilshrestha0@gmail.com)
-- **LinkedIn:** [linkedin.com/in/nikhilshrestha](https://linkedin.com/in/nikhilsth4)
-- **Portfolio:** [nikhilportfolio.com](https://nikhiljs.me)
+- **Email:** [nikhilshrestha0@gmail.com](mailto:nikhilshrestha0@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nikhilsth4](https://linkedin.com/in/nikhilsth4)
+- **Portfolio:** [nikhiljs.me](https://nikhiljs.me)
 
 ---
 
