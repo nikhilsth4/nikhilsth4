@@ -1,78 +1,103 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Nikhil Shrestha**, a passionate software engineer and a recent graduate with a Master’s degree in Computer Science. I’m enthusiastic about building robust, scalable, and user-friendly applications that solve real-world problems.
+Welcome to my GitHub profile! I'm **Nikhil Shrestha**, a prospective PhD candidate in Computer Science with a passion for advancing self-supervised multimodal generative AI for robotics and intelligent systems. I recently graduated with a Master’s degree in Computer Science from The University of Texas Permian Basin, where I maintained a perfect GPA of 4.0. I’m enthusiastic about building robust, scalable, and efficient AI solutions that solve real-world problems.
 
 ---
 
-### 💻 About Me
-- 🎓 **Education:** Master of Science in Computer Science, The University of Texas Permian Basin, May 2024.
-- 🌟 **Skills:** Full Stack Development | Java | Spring Boot | React.js | Python | SQL | RESTful APIs | Cloud (AWS/GCP/Azure) | Docker & Kubernetes | Git
-- 📍 **Location:** SanFrancisco, CA, USA
-- 💼 **Open to:** Software Engineering | Frontend Development | Backend Development | Full Stack Development
-- 🌱 **Currently Learning:** LLMS, Generative AI, Three.js
+## 🔬 Research Interests
+- Advancing self-supervised multimodal generative AI for robotics and intelligent systems.
+- Developing efficient, robust self-supervised learning systems with minimal reliance on large, labeled datasets.
+- Inspired by my work on a COVID-19 prediction model, I aim to create adaptable learning systems.
+- Combining Generative AI, Software Engineering, and Robotics to build explainable and efficient AI solutions.
 
 ---
 
-### 🛠️ Technical Skills
+## 🎓 Education
+- **Master of Science in Computer Science** (GPA: 4.0/4.0)  
+  The University of Texas Permian Basin, Odessa, TX — May 2024  
+- **Bachelor of Science in Computer Science and Information Technology** (GPA: 73.8/100)  
+  Tribhuvan University, Kathmandu, Nepal — Dec 2020  
 
-#### **Programming Languages**
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-
-#### **Frameworks & Libraries**
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-
-#### **Cloud & DevOps**
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-
-#### **Databases**
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-
----
-
-### 💼 Professional Experience
-
-#### Software Engineer | Fourth Valley Concierge Corporation
-*Tokyo, Japan (May 2022 – Aug 2022)*
-- Built an Admin Management System using **Next.js**, **Tailwind CSS**, and **AWS Lambda**, optimizing admin workflows.
-- Designed serverless backends with **DynamoDB** and improved code quality with **TypeScript**.
-
-#### Software Engineer | Nepalland IT Solutions
-*Kathmandu, Nepal (May 2021 – Apr 2022)*
-- Developed a Hospital Management System integrating **React.js** and **Spring Boot**, enhancing user satisfaction.
-- Utilized **PostgreSQL** for database management and improved UI with **Figma**.
-
-#### Junior Software Engineer | Radius Infosys Pvt. Ltd.
-*Kathmandu, Nepal (Apr 2020 – May 2021)*
-- Designed a Restaurant Management System with **React** and **Node.js**, improving efficiency by 20%.
-- Enhanced user experience with real-time tracking using **Socket.IO**.
+**Relevant Coursework:**  
+- Data Structures and Algorithms  
+- Artificial Intelligence (Machine Learning & Deep Learning)  
+- Software Engineering  
+- Distributed Database Systems  
+- Analysis of Algorithms  
+- Advanced Database Management Systems  
+- Advanced Software/Web Development  
+- Image Processing & Pattern Recognition  
+- Linear Algebra  
+- Probability and Statistics  
 
 ---
 
-### 🌟 Projects
+## 💼 Experience
 
-#### **Pneumonia Detection**
-- **Description:** Built a machine learning model for detecting pneumonia from x-ray images, using **AWS Sagemaker** for training and **React.js** for real-time diagnosis.
-- **Technologies Used:** Python, AWS Lambda, React.js
-- **GitHub Link:** [Repository Link](#)
+### **Machine Learning Engineer Intern** | Pacific Gas and Electric (PG&E)  
+*Oakland, CA (Aug 2024)*  
+- Led a rule-based text parsing project using regular expressions to extract key attributes of electric assets.  
+- Applied CNN-based computer vision to detect bird nests on transmission lines.  
+- Contributed to feature engineering efforts for ML risk models in wildfire mitigation planning.  
 
-#### **Ecommerce Platform**
-- **Description:** Developed an e-commerce application with Firebase authentication and Stripe payment integration.
-- **Technologies Used:** React.js, Redux, Firebase, Stripe
-- **GitHub Link:** [Repository Link](#)
+### **Software Engineer** | Fourth Valley Concierge Corporation  
+*Tokyo, Japan (May 2022 – Aug 2022)*  
+- Developed an Admin Management System using Tailwind CSS, React JS, Redux, and Figma, reducing administrative time by 25%.  
+- Designed and deployed serverless backends with AWS Lambda and DynamoDB, cutting server maintenance efforts by 40%.  
 
-#### **Blockchain Campaign**
-- **Description:** Built a decentralized donation platform using blockchain to ensure transparency in fundraising.
-- **Technologies Used:** Next.js, Solidity, web3.js
-- **GitHub Link:** [Repository Link](#)
+### **Software Engineer - Machine Learning** | Nepalland IT Solutions  
+*Kathmandu, Nepal (May 2021 – Apr 2022)*  
+- Engineered microservices-based modules for a Hospital Management System using Spring Boot and PostgreSQL.  
+- Led the development of a deep learning model for COVID-19 detection in chest X-rays using an Inception V3-based CNN, achieving 88.76% validation accuracy.  
+- Oversaw the model’s integration into a system serving 200+ hospitals, enhancing healthcare delivery.  
+
+### **Junior Software Engineer - Machine Learning** | Radius Infosys Pvt. Ltd.  
+*Kathmandu, Nepal (Apr 2020 – May 2021)*  
+- Developed a restaurant management system with a dynamic React/Redux front end and Node.js backend, ensuring real-time order tracking and 90% code coverage.  
+- Spearheaded the development of a personalized recommendation engine using collaborative filtering (SVD) in Python and scikit-learn.  
 
 ---
 
-### 📫 Let's Connect
-- **Email:** [nikhilshrestha0@gmail.com](mailto:nikhilshrestha0@gmail.com)
-- **LinkedIn:** [linkedin.com/in/nikhilsth4](https://linkedin.com/in/nikhilsth4)
-- **Portfolio:** [nikhiljs.me](https://nikhiljs.me)
+## 🛠️ Skills
+- **Programming Languages:** Python, C++, Java, JavaScript, SQL  
+- **Machine Learning:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, OpenCV  
+- **Software Engineering:** Django, Flask, React, RESTful APIs, Jest  
+- **DevOps & Tools:** Git, Docker, Kubernetes, AWS, Jenkins  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Snowflake  
+- **Big Data:** Spark, Hadoop, Databricks, Kafka  
 
 ---
+
+## 🌟 Projects
+
+### **Signature Verification System using CNNs**  
+- Developed a system employing CNNs and autoencoders to classify handwritten signatures.  
+- Achieved 83% accuracy on the Persian signature dataset through robust feature extraction and data augmentation.  
+  
+
+### **Stack Autoencoder-Based Recommendation Engine for MovieLens Dataset**  
+- Built a personalized movie recommendation engine using stacked autoencoders in PyTorch.  
+- Learned latent user-movie interactions from the MovieLens dataset, achieving a test loss of ~0.9588.  
+  
+
+### **Autonomous Multi-Agent Deal-Spotting System with Retrieval-Augmented Generation (RAG) Pipeline**  
+- Pioneered a serverless multi-agent system on Modal Labs for e-commerce deal discovery.  
+- Developed an Analyzer Agent with a RAG pipeline, boosting deal identification accuracy by 20%.  
+
+
+### **Microservices-Based E-commerce Storefront with Crypto Integration**  
+- Engineered scalable microservices architecture using Spring Boot and PostgreSQL.  
+- Developed a responsive full-stack application with React/Redux and integrated secure payment processing via Stripe and Ethereum.  
+
+
+---
+
+## 📫 Let's Connect  
+- **Email:** [nikhilshrestha0@gmail.com](mailto:nikhilshrestha0@gmail.com)  
+
+
+---
+
+
 
 Thank you for visiting my profile! 😊 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about exciting opportunities!
-
